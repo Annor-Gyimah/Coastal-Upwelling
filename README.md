@@ -1,10 +1,10 @@
-# Synergistic Drivers of Coastal Upwelling in the Gulf of Guinea (Keta Focus)
+# Synergistic Drivers of Coastal Upwelling in the Gulf of Guinea (Insights from Keta, Ghana)
 _Reproducible code, data processing, and notebooks for the paper: “Synergistic Atmospheric–Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana”_
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17534972.svg)](https://doi.org/10.5281/zenodo.17534972)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ORG/REPO/TAG?labpath=notebooks%2Frun_analysis.ipynb)
 
-> 🔧 Replace `XXXXXXX`, `ORG/REPO`, and `TAG` after you mint your Zenodo DOI and GitHub release.
+> 🔧 Replace `17534972`, `ORG/REPO`, and `TAG` after you mint your Zenodo DOI and GitHub release.
 
 ## Overview
 This repository reproduces the full analysis pipeline:

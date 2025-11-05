@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software or derived datasets, please cite as below."
 title: "Synergistic Atmospheric–Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana: Reproducible Analysis Code and Derived Data"
 version: v1.0.0
-doi: 10.5281/zenodo.XXXXXXX   # 🔧 Replace with your Zenodo DOI (software release)
+doi: 10.5281/zenodo.17534972   # 🔧 Replace with your Zenodo DOI (software release)
 date-released: 2025-11-05
 authors:
   - family-names: Annor
@@ -15,7 +15,7 @@ authors:
     given-names: Cyril D
     orcid: "0000-0002-1721-4158"
 repository-code: "https://github.com/ORG/REPO"   # 🔧 Replace
-url: "https://doi.org/10.5281/zenodo.XXXXXXX"     # 🔧 Replace with same DOI
+url: "https://doi.org/10.5281/zenodo.17534972"     # 🔧 Replace with same DOI
 abstract: >
   This repository contains code, notebooks, and processed datasets to reproduce
   the analysis for “Synergistic Analysis of Coupled Atmospheric and Ocean
@@ -42,4 +42,4 @@ preferred-citation:
       given-names: Emmanuel Gyimah
   year: 2025
   version: v1.0.0
-  doi: 10.5281/zenodo.XXXXXXX
+  doi: 10.5281/zenodo.17534972
