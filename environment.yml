@@ -1,0 +1,45 @@
+
+---
+
+### `environment.yml`
+```yaml
+name: coastal-upwelling
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  # Core scientific stack
+  - numpy
+  - pandas
+  - xarray
+  - dask
+  - netcdf4
+  - h5netcdf
+  - cftime
+  - bottleneck
+  - scipy
+  # Mapping & plotting
+  - matplotlib
+  - cartopy
+  - shapely
+  - proj
+  - geos
+  # ML / PCA
+  - scikit-learn
+  # IO / utils
+  - pooch
+  - requests
+  - tqdm
+  # Jupyter
+  - jupyterlab
+  - ipykernel
+  # (Optional) performance & ESG tools
+  - numba
+  - zarr
+  - fsspec
+  - s3fs
+  - pip:
+      # Regridding & colormaps (pip versions are often latest)
+      - xesmf
+      - cmocean

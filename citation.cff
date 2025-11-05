@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this software or derived datasets, please cite as below."
+title: "Synergistic Atmospheric–Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana: Reproducible Analysis Code and Derived Data"
+version: v1.0.0
+doi: 10.5281/zenodo.XXXXXXX   # 🔧 Replace with your Zenodo DOI (software release)
+date-released: 2025-11-05
+authors:
+  - family-names: Annor
+    given-names: Emmanuel Gyimah
+    orcid: "0009-0008-6447-7832"   # 🔧 Optional: replace with your ORCID
+  - family-names: Aryee
+    given-names: Jeffrey Nii Armah
+    orcid: "0000-0002-4481-1441"
+  - family-names: Boateng
+    given-names: Cyril D
+    orcid: "0000-0002-1721-4158"
+repository-code: "https://github.com/ORG/REPO"   # 🔧 Replace
+url: "https://doi.org/10.5281/zenodo.XXXXXXX"     # 🔧 Replace with same DOI
+abstract: >
+  This repository contains code, notebooks, and processed datasets to reproduce
+  the analysis for “Synergistic Analysis of Coupled Atmospheric and Ocean
+  Drivers of Coastal Upwelling in the Gulf of Guinea: Focus on Keta, Ghana.”
+  It includes ECUI/GCUI computation, common-grid anomaly generation for SST/SSH/SSS,
+  correlation and lag diagnostics, and a joint EOF/PCA across five fields, plus
+  figure scripts and rerunnable notebooks (Binder).
+keywords:
+  - Gulf of Guinea
+  - coastal upwelling
+  - ECUI
+  - GCUI
+  - EOF
+  - PCA
+  - SST
+  - SSH
+  - SSS
+license: MIT
+preferred-citation:
+  type: software
+  title: "Synergistic Atmospheric–Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Reproducible Analysis Code and Derived Data"
+  authors:
+    - family-names: Annor
+      given-names: Emmanuel Gyimah
+  year: 2025
+  version: v1.0.0
+  doi: 10.5281/zenodo.XXXXXXX
