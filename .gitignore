@@ -1,4 +1,13 @@
-datasets/
+datasets/cmems_obs-mob_glo_phy-cur_my_0.25deg_P1M-m_1740187181287.nc
+datasets/cmems_obs-mob_glo_phy-sss_my_multi_P1M_1740653508523.nc
+datasets/cmems_obs-sl_glo_phy-ssh_my_allsat-l4-duacs-0.125deg_P1D_1740483994742.nc
+datasets/CUI_2010_2017.nc
+datasets/data_t.nc
+datasets/extracted_mld.nc
+datasets/extracted_ugos_2.nc
+datasets/extracted_ugos.nc
+datasets/MUR_Monthly_SST_.nc
+
 .ipynb_checkpoints
 
 Untitled.ipynb
