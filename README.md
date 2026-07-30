@@ -1,5 +1,5 @@
-# Synergistic Drivers of Coastal Upwelling in the Gulf of Guinea (Insights from Keta, Ghana)
-_Reproducible code, data processing, and notebooks for the paper: “Synergistic Atmospheric–Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana”_
+# Atmospheric and Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana
+_Reproducible code, data processing, and notebooks for the paper: “Atmospheric and Oceanic Controls of Coastal Upwelling in the Northern Gulf of Guinea: Insights from Keta, Ghana”_
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17534972.svg)](https://doi.org/10.5281/zenodo.17534972)
 
@@ -9,18 +9,18 @@ _Reproducible code, data processing, and notebooks for the paper: “Synergistic
 ## Overview
 This repository reproduces the full analysis pipeline:
 - Compute Ekman (ECUI) and geostrophic (GCUI) upwelling indices
-- Process SST, SSH, SSS monthly anomalies on a common grid
+- Process SST, SSH, monthly anomalies on a common grid
 - Correlation & lag–longitude diagnostics
-- Joint EOF/PCA across ECUI, GCUI, SST, SSH, SSS
+- EOF/PCA across ECUI, GCUI, SST, SSH
 - Plot figures used in the manuscript
 
-**Study window:** 2010–2017  
-**Focus region:** Eastern Ghana–Togo shelf near Keta (≈ 0–2°E, 2–6°N)
+**Study window:** 2010–2022  
+**Focus region:** Eastern Ghana–Togo shelf near Keta (≈ 0–2°E, 4–6°N)
 
 ## Quick start (Binder)
 Click the Binder badge above to open the environment in your browser and run:
-- `notebooks/run_analysis.ipynb` → end-to-end processing and figures
-- `notebooks/reproduce_eof_pca.ipynb` → joint EOF/PCA with saved outputs
+- `notebooks/REFINED_EKMAN_CORRECTED.ipynb` → end-to-end processing and figures
+
 
 ## Local installation
 ```bash
